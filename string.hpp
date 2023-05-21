@@ -1,4 +1,5 @@
-class string {
+class string
+{
 public:
     // Constructor
     string(const char* str)
